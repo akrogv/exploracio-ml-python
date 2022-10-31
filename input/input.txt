@@ -1,0 +1,1 @@
+En aquesta carpeta aniran tots els arxius i informació que serveixin de input per al projecte.
