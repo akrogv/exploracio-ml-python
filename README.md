@@ -13,7 +13,7 @@ During the first stage of the project (est. 2 weeks), we would like to achieve t
 
 - Search for interesting datasets as well as objectives on the dataset (Documenting them in order to share them between us and taking notes on what makes them cool/interesting for research)
 - Search for state of the art (or not known by us) models in general in which we have interest in order to try to match them to the use-cases we researched.
-- Start Coding!! (with the appropiate steps/boring stuff)
+- Start Coding!! (with the appropiate steps/not so fun stuff)
 
 
 ## Nice to Haves 
