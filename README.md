@@ -1,4 +1,7 @@
+<h1>
 Aquest és un projecte d'estudi i recerca sobre Machine Learning.
+  </h1>
+  
 
 La primera part d'aquest projecte constarà dels següents pasos:
 
