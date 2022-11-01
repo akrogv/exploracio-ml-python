@@ -8,7 +8,7 @@
 
 - Sales per SKU per year, at least, 2021 and 2022. Maybe one or two years more.
 - Master data (SKU Info)
-- Could be able to retrieve more information such as: Google Analytics data or  other years forecast vs accuracy.
+- Could be able to retrieve more information such as: Google Analytics data or  other years forecast --> also historical forecast accuracy.
 
 
 ## Things to learn
