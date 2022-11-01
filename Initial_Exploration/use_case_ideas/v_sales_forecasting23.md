@@ -17,9 +17,11 @@
 - Analytics would tell us real insights of an ecommerce. 
 - Real valuable rewards.
 - Real understanding of the company.
+- I like timeseries forecasting
 
 ## Difficulties & Timing
 
+- We need more yearly data --> I have to talk to them and ask where is historical data of sales. 
 - Data may present initial problems. Might have to do lots of ETLs and cleaning.
 - Timing would be until december. Season starts january 23.
 
