@@ -23,3 +23,8 @@ Kaggle Points :P
 
 ## Score
 ### **8.5/10**
+
+
+## Resources
+
+https://towardsdatascience.com/introduction-to-recommender-systems-6c66cf15ada
