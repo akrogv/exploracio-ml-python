@@ -1,4 +1,4 @@
-Recommender Systems for e-commerce
+Intro to Recommender Systems
 
 
 - Content Based: recommendations based on user preferences for product features, identified by user’s previous actions. (High level).
