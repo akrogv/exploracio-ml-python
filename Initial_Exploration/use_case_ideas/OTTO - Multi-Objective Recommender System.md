@@ -28,3 +28,4 @@ Kaggle Points :P
 ## Resources
 
 https://towardsdatascience.com/introduction-to-recommender-systems-6c66cf15ada
+https://session-based-recommenders.fastforwardlabs.com/
