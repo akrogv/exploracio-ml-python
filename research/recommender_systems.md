@@ -1,5 +1,6 @@
 Intro to Recommender Systems
 
+Two main types: 
 
 - Content Based: recommendations based on user preferences for product features, identified by user’s previous actions. (High level).
 
@@ -8,14 +9,13 @@ Intro to Recommender Systems
 Both systems rely on historical interactions.
 But a user’s choice of items not only depends on long-term historical preference, but also on short-term and recent preferences.
 This consideration has prompted the exploration of new algorithms known as session-based recommendation algorithms.
-Specially advantageous because a user can appear anonymously.
+ESpecially advantageous because a user can appear anonymously.
 
 ![imatge](https://user-images.githubusercontent.com/62561223/200885398-4c670503-04fc-49db-b45d-4d70fa842f97.png)
 
-Rhonda’s browsing history in one session. 
 
 Multiple user interactions that happen in a period of time.
-What product within the session will Rhonda click on? This is called Next Event Prediction (NEP)
+What product within the session will X click on? This is called Next Event Prediction (NEP)
 
 Modeling Session-based Recommenders:
 
