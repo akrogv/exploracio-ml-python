@@ -43,7 +43,7 @@ Another valid exploration path would be to try to extract the relation within pr
 
 ### Initial Queries
 
-- We want to answer if its possible for a product to appear in any event type other than a 'click'.
+- We want to answer if its possible for a product to appear first in any event type other than a 'click'. --> Yes, it appears that events may appear in any order in some cases, we could try to find in which proportion.
 
 - We want to know about wether its possible to use techniques from the NLP domain like word2vec to model the input sequence of events from a session.
 
@@ -53,7 +53,29 @@ Another valid exploration path would be to try to extract the relation within pr
 - **click:** Type of event performed by the user, refers to a click on the website store, has an associated product and timestamp.
 - **cart:** Type of event performed by the user, represents the action of putting an item in the cart on the online shop, has an associated product and timestamp.
 - **order:** Type of event performed by the user, this refers to when a sale is made, has an associated product and timestamp.
+
+### Assignements
+
+#### Subsession
+1. Define the concept of sub-session (technical).
+2. Try out different sub-session spacing and correlate with event distribution. Blocked by **1**.
+3. Find the value to be used during the exploration phase and provide the code to alter the dataset adding the sub-session column and export it. Blocked by **2**.
   
+#### Products
+4. Find the likelyhood of any product to appear in each type of event.
+5. Explore if there are products likely to appear after another one.
+6. Find if there are products more likely to appear at the start or at the end of a session.
+7. Find if there are products more likely to appear at the start or at the end of a sub-session. Blocked by **3**.
+8. Find if the length of the session affects which products may appear in an event, by type. 
+9. Find if the length of the sub-session affects which products may appear in an event, by type. Blocked by 3.
+
+#### Event types
+10. Find the distribution of event types during a session.
+11. Find the distribution of event types during a sub-session. Blocked by **3**.
+12. Find the likelyhood of a product to appear directly in a 'cart' or 'order' event.
+13. Find if there is a relation between the proportion of different event types and session length.
+14. Find if there is a relation between the proportion of different event types and sub-session length. Blocked by **3**.
+    
 
 ## Data Preparation
 
