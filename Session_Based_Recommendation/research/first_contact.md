@@ -57,12 +57,12 @@ Another valid exploration path would be to try to extract the relation within pr
 ### Assignements
 
 #### Subsession
-1. Define the concept of sub-session (technical).
+1. Define the concept of sub-session (technical). Done
 2. Try out different sub-session spacing and correlate with event distribution. Blocked by **1**.
-3. Find the value to be used during the exploration phase and provide the code to alter the dataset adding the sub-session column and export it. Blocked by **2**.
+3. Find the value to be used during the exploration phase and provide the code to alter the dataset adding the sub-session column and export it. Blocked by **2**. Done
   
 #### Products
-4. Find the likelyhood of any product to appear in each type of event.
+4. Find the likelyhood of any product to appear in each type of event. Done
 5. Explore if there are products likely to appear after another one.
 6. Find if there are products more likely to appear at the start or at the end of a session.
 7. Find if there are products more likely to appear at the start or at the end of a sub-session. Blocked by **3**.

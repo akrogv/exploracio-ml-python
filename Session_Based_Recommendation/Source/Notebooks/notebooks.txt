@@ -1,4 +1,0 @@
-"""
-Totes les jupyter notebooks estaran guardades en aquesta carpeta.
-Farem servir jupyternotebooks per fer exploració i análisi de dades, així com per comprovacions de dades i plots.
-"""
