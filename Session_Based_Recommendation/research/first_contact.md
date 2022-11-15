@@ -48,11 +48,12 @@ Another valid exploration path would be to try to extract the relation within pr
 - We want to know about wether its possible to use techniques from the NLP domain like word2vec to model the input sequence of events from a session.
 
 ## Data Understanding
-- **Session:** Events recorded for a single user in the period of time during which the data collection took place.
+- **Session:** Events recorded for a single user in the period of time during which the data collection took place (4 weeks).
 - **aid:** Represents a unique product identifier from the store. 
 - **click:** Type of event performed by the user, refers to a click on the website store, has an associated product and timestamp.
 - **cart:** Type of event performed by the user, represents the action of putting an item in the cart on the online shop, has an associated product and timestamp.
 - **order:** Type of event performed by the user, this refers to when a sale is made, has an associated product and timestamp.
+- **subsession:** Sessions of events performed by a user in what we would understand as a real session. A session is divided into subsessions, with a 2 hour threshold.
 
 ### Assignements
 
