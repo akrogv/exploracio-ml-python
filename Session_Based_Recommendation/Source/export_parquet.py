@@ -3,7 +3,7 @@ import numpy as np
 import itertools
 from sklearn.model_selection import train_test_split
 
-chunks = pd.read_json("train.jsonl",lines=True,chunksize=300000,compression='')
+chunks = pd.read_json("Session_Based_Recommendation/Data/train.jsonl",lines=True,chunksize=300000)
 indexChunk = 0
 for initialDf in chunks:
     initialDf.info()
